@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:oracle:thin:@nrailserver:1521/DEV1
+    username: cramer
+    password: cramer
+    driver-class-name: oracle.jdbc.OracleDriver
